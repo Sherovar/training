@@ -10,7 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>base1_1</module>
+        <module>base2_2</module>
+        <module>base1_2</module>
     </modules>
+
 
 
 </project>
